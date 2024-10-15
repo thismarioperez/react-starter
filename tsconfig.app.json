@@ -30,5 +30,7 @@
   },
   "include": [
     "src",
-  ]
+    "src/environment.d.ts",
+    "tests"
+  ],
 }

@@ -1,7 +1,8 @@
 import "./App.css";
+import Greeting from "./components/Greeting";
 
 function App() {
-    return <>Hello world</>;
+    return <Greeting />;
 }
 
 export default App;
