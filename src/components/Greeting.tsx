@@ -1,3 +1,7 @@
 export default function Greeting() {
-    return <h1>Hello world!</h1>;
+    return (
+        <div className="prose w-full">
+            <h1>Hello world!</h1>
+        </div>
+    );
 }
